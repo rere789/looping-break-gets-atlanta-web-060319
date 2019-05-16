@@ -6,7 +6,8 @@ def levitation_quiz
 	  while answer != "Wingardium Leviosa"
 	    levitation_quiz
 	   else 
-	  
+	     "You passed the quiz!" 
+	  end
 end
 
 
