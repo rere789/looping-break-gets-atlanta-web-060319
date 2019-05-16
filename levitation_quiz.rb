@@ -7,8 +7,6 @@ def levitation_quiz
 	    levitation_quiz
 	   else 
 	     "You passed the quiz!" 
-	  end
-	end
 end
 
 
